@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Neon-Photography/static/css/main.2ac22959.chunk.css",
+    "main.js": "/Neon-Photography/static/js/main.8a2558b6.chunk.js",
+    "main.js.map": "/Neon-Photography/static/js/main.8a2558b6.chunk.js.map",
+    "runtime-main.js": "/Neon-Photography/static/js/runtime-main.2f129acf.js",
+    "runtime-main.js.map": "/Neon-Photography/static/js/runtime-main.2f129acf.js.map",
+    "static/js/2.a7ad35c9.chunk.js": "/Neon-Photography/static/js/2.a7ad35c9.chunk.js",
+    "static/js/2.a7ad35c9.chunk.js.map": "/Neon-Photography/static/js/2.a7ad35c9.chunk.js.map",
+    "index.html": "/Neon-Photography/index.html",
+    "static/css/main.2ac22959.chunk.css.map": "/Neon-Photography/static/css/main.2ac22959.chunk.css.map",
+    "static/js/2.a7ad35c9.chunk.js.LICENSE.txt": "/Neon-Photography/static/js/2.a7ad35c9.chunk.js.LICENSE.txt",
+    "static/media/neon.ac64ed5a.png": "/Neon-Photography/static/media/neon.ac64ed5a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f129acf.js",
+    "static/js/2.a7ad35c9.chunk.js",
+    "static/css/main.2ac22959.chunk.css",
+    "static/js/main.8a2558b6.chunk.js"
+  ]
+}
